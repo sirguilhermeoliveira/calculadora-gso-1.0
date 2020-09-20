@@ -1,3 +1,9 @@
+Gif do Projeto:
+
+![Alt Text](https://media.giphy.com/media/qGc4I2HwpI7cyuTSpe/giphy.gif)
+
+![](name-of-giphy.gif)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
