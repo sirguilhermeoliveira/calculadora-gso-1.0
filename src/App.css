@@ -1,0 +1,54 @@
+/* Design da página, botões utilizando da className para identificar */
+
+.App {
+  text-align: center;
+
+}
+
+.buttons {
+  display: block;
+  background-color: #bbb;
+  
+  
+}
+
+.buttons button {
+  width: 25%;
+  height: 40px;
+  font-size: 17px;
+  background-color: whitesmoke;
+  
+}
+
+.calc-body {
+  max-width: 230px;
+  margin: auto;
+  color:white;
+}
+
+.result {
+  height: 60px;
+  background-color: black;
+  width: 100%;
+  color:white;
+}
+
+.result p {
+  font-size: 45px;
+
+}
+
+/* 
+background-color: #222;
+height: 150px;
+padding: 20px;
+color: white;
+}
+
+.App-title {
+font-size: 1.5em;
+}
+
+.App-intro {
+font-size: large;
+} */
