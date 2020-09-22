@@ -1,4 +1,5 @@
-Gif do Projeto:
+# Calculadora
+## Desenvolvido em React
 
 ![Alt Text](https://media.giphy.com/media/qGc4I2HwpI7cyuTSpe/giphy.gif)
 
